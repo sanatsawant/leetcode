@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/sanatsawant/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanatsawant/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bit Manipulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/sanatsawant/leetcode/tree/master/0474-ones-and-zeroes) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanatsawant/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanatsawant/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/sanatsawant/leetcode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
