@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sanatsawant/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sanatsawant/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Dynamic Programming
 |  |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sanatsawant/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sanatsawant/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sanatsawant/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sanatsawant/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/sanatsawant/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sanatsawant/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanatsawant/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sanatsawant/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanatsawant/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sanatsawant/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sanatsawant/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
