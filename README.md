@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanatsawant/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sanatsawant/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sanatsawant/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanatsawant/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanatsawant/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/sanatsawant/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sanatsawant/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sanatsawant/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sanatsawant/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sanatsawant/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Number Theory
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sanatsawant/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/sanatsawant/leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Sliding Window
 |  |
