@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/sanatsawant/leetcode/tree/master/0233-number-of-digit-one) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sanatsawant/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sanatsawant/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sanatsawant/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/sanatsawant/leetcode/tree/master/0233-number-of-digit-one) |
 | [0474-ones-and-zeroes](https://github.com/sanatsawant/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanatsawant/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanatsawant/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/sanatsawant/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanatsawant/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanatsawant/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/sanatsawant/leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
