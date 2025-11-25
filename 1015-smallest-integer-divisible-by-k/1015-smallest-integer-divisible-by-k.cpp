@@ -2,7 +2,7 @@ class Solution {
 public:
     int smallestRepunitDivByK(int k) {
         int ans=0;
-        if(k%2==0) return -1;
+        if(k%2==0 || k%5==0) return -1;
         string n=string(to_string(k).size(),'1');
         long long a=stoi(n);
         ans=to_string(k).size();
