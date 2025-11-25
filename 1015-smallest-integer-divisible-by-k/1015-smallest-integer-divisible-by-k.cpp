@@ -6,7 +6,7 @@ public:
         string n=string(to_string(k).size(),'1');
         long long a=stoi(n);
         ans=to_string(k).size();
-        for(int i=0;i<1e5;i++){
+        for(int i=0;i<=k;i++){
             a%=k;
             if(a==0) return ans;
             a*=10;
