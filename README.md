@@ -117,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/sanatsawant/leetcode/tree/master/0233-number-of-digit-one) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/sanatsawant/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/sanatsawant/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
