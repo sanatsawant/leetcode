@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/sanatsawant/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sanatsawant/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanatsawant/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3757-number-of-effective-subsequences](https://github.com/sanatsawant/leetcode/tree/master/3757-number-of-effective-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanatsawant/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanatsawant/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/sanatsawant/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3757-number-of-effective-subsequences](https://github.com/sanatsawant/leetcode/tree/master/3757-number-of-effective-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sanatsawant/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanatsawant/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanatsawant/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3757-number-of-effective-subsequences](https://github.com/sanatsawant/leetcode/tree/master/3757-number-of-effective-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sanatsawant/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanatsawant/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sanatsawant/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3757-number-of-effective-subsequences](https://github.com/sanatsawant/leetcode/tree/master/3757-number-of-effective-subsequences) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanatsawant/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sanatsawant/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Combinatorics
+|  |
+| ------- |
+| [3757-number-of-effective-subsequences](https://github.com/sanatsawant/leetcode/tree/master/3757-number-of-effective-subsequences) |
 <!---LeetCode Topics End-->
