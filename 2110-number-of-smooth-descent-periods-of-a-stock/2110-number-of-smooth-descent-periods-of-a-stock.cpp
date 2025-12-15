@@ -6,13 +6,16 @@ public:
         int n=v.size();
         ll c=1;
         for(int i=1;i<n;i++){
-            if(v[i-1]-v[i]==1) c++;
+            ans+=c;
+            if(v[i-1]-v[i]==1){
+                c++;
+                
+            }
             else{
-                ans+=(c*(c+1))/2;
                 c=1;
             }
         }
-        ans+=(c*(c+1))/2;
+        ans+=c;
         return ans;
 
         
