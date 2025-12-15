@@ -1,0 +1,20 @@
+class Solution {
+public:
+    using ll=long long;
+    long long getDescentPeriods(vector<int>& v) {
+        ll ans=0;
+        int n=v.size();
+        ll c=1;
+        for(int i=1;i<n;i++){
+            if(v[i-1]-v[i]==1) c++;
+            else{
+                ans+=(c*(c+1))/2;
+                c=1;
+            }
+        }
+        ans+=(c*(c+1))/2;
+        return ans;
+
+        
+    }
+};
