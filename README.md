@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/sanatsawant/leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sanatsawant/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/sanatsawant/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sanatsawant/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3757-number-of-effective-subsequences](https://github.com/sanatsawant/leetcode/tree/master/3757-number-of-effective-subsequences) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanatsawant/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -140,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sanatsawant/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sanatsawant/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sanatsawant/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sanatsawant/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sanatsawant/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sanatsawant/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sanatsawant/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Enumeration
 |  |
 | ------- |
